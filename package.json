@@ -1,0 +1,33 @@
+{
+  "name": "server3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "cheerio": "^1.0.0-rc.2",
+    "leveldown": "^4.0.1",
+    "levelup": "^3.1.1",
+    "moment": "^2.24.0",
+    "nodejs-websocket": "^1.7.1",
+    "request": "^2.88.0",
+    "web3": "^0.20.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZheminZhang/Server3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZheminZhang/Server3/issues"
+  },
+  "homepage": "https://github.com/ZheminZhang/Server3#readme",
+  "description": ""
+}

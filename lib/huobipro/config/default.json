@@ -1,0 +1,10 @@
+{
+    "huobi": {
+        "access_key": "56c34d67-5988c387-298f987b-ce703",
+        "secretkey": "b5d02a98-c4c9d592-c7688795-c966e",
+        "uid": "16301669",
+        "account_id_pro": "",
+        "trade_password": "",
+        "privatekey": "-----BEGIN PRIVATE KEY-----\nMIGEAgEAMBAGByqGSM49AgEGBSuBBAAKBG0wawIBAQQg7M52ndTOtGwS0hdetuOk\nzmvPlaPs8jrjPzEO1vFacn+hRANCAAS2GPxlAkwSJsRM6x8VpZBXxtdpBUPVYpBT\nJ8Eii17Lsm6m3NnO0FGdRLTPFX7NJsdylhu7iJsT4sH42IAq/IXA\n-----END PRIVATE KEY-----"
+    }
+}
